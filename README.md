@@ -9,5 +9,6 @@ Note :
 ![Screenshot](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltosql.PNG)
 
 
-- How To Use 
-![alt text](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltomssql.mp4)
+
+- [Video] How To Use 
+![Video](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltomssql.mp4)
