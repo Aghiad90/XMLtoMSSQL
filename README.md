@@ -10,5 +10,5 @@ Note :
 
 
 
-- [Video] How To Use 
-![Video](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltomssql.mp4)
+-  How To Use 
+[Video](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltomssql.mp4)
