@@ -1,6 +1,7 @@
 # XMLtoMSSQL
 tool to import XML file into specific table in MSSQL 
-Note :
+
+## Note :
 - Make sure there is no quotation in your XML file 
 - Make sure your Table and XML file  has  the same structure
 
