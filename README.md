@@ -4,9 +4,10 @@ Note :
 - Make sure there is no quotation in your XML file 
 - Make sure your Table and XML file  has  the same structure
 
-- Screenshot 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+- Screenshot
+
+![Screenshot](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltosql.PNG)
 
 
 - How To Use 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Aghiad90/XMLtoMSSQL/blob/master/xmltomssql.mp4)
